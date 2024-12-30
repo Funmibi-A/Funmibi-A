@@ -3,13 +3,8 @@
 <h2>Home Lab and Projects:</h2>
 - <b>Active Directory Home Lab</b>
 
-  - Active Directory(https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - Active Directory(https://github.com/Funmibi-A/ActiveDirectoryLab.git)
   
-- <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-
-
 - <b>Cloud Projects</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
