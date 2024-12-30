@@ -1,9 +1,10 @@
 <h1>Hi, I'm Funmibi! <br/><a href="https://www.linkedin.com/in/funmibi-adedokun/">I.T Support Professional</a></h1>
 
 <h2>Home Lab and Projects:</h2>
+
 - <b>Active Directory Home Lab</b>
 
-  - Active Directory(https://github.com/Funmibi-A/ActiveDirectoryLab.git)
+  - (https://github.com/Funmibi-A/ActiveDirectoryLab.git)
   
 - <b>Cloud Projects</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
