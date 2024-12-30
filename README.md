@@ -4,10 +4,13 @@
 
 - <b>Active Directory Home Lab</b>
 
-  - (https://github.com/Funmibi-A/ActiveDirectoryLab.git)
+  - https://github.com/Funmibi-A/ActiveDirectoryLab.git
   
 - <b>Cloud Projects</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - https://github.com/Funmibi-A/project1-IMPLEMENT_LAMP_WEB_STACK_ON_AWS.git
+  - https://github.com/Funmibi-A/project2-IMPLEMENTING_LEMP_WEB_STACK_ON_AWS.git
+  - https://github.com/Funmibi-A/project3-IMPLEMENTING_MERN_WEB_STACK_ON_AWS.git
+  - https://github.com/Funmibi-A/project4-IMPLEMENTING_MEAN_WEB_STACK_ON_AWS.git
  
 <h2>CERTIFICATIONS</h2>
 
