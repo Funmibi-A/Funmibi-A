@@ -1,4 +1,4 @@
-<h1>Hi, I'm Funmibi! <br/><a href="https://www.linkedin.com/in/funmibi-adedokun/">I.T Support Professional</a></h1>
+<h1>Hi, I'm Funmibi! <br/><a href="https://www.linkedin.com/in/funmibi-adedokun/">Technical Support Engineer</a></h1>
 
 <h2>Home Lab and Projects:</h2>
 
